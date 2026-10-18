@@ -1,0 +1,27 @@
+I’m excited to share a Python project I built to practise and apply my programming fundamentals! 🐍
+
+📌 Project: Smart Student Performance Analyzer
+
+Built using Python 3.11 and its standard library, this command-line application helps organize student marks and generate performance insights.
+
+✨ Features:
+• Student record management
+• Marks validation and grade calculation
+• Percentage calculation and student ranking
+• Search by student name or ID
+• Class average, topper, and subject-wise averages
+• Persistent storage using JSON file handling
+• Text report generation
+
+🛠️ Python concepts practised:
+Variables, loops, conditionals, functions, lists, dictionaries, sorting, exception handling, and file handling.
+
+I’m building projects alongside my learning journey after completing the “Python Course for Beginners With Certification: Mastering the Essentials” from Scaler Topics.
+
+Next, I plan to improve the project with more analytics and automated tests.
+
+GitHub: [Add your repository link]
+
+Feedback and suggestions are welcome!
+
+#Python #PythonProgramming #PythonProjects #LearningByBuilding #Programming #ScalerTopics
